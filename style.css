@@ -1,0 +1,67 @@
+body {
+    background-image: url("https://cdn.milenio.com/uploads/media/2021/10/01/tizayuca-hidalgo-especial.jpg");
+    opacity: 0.8;
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #25f01e;
+    top: 5px;
+    right: 50px;
+    position: fixed;
+    font-size: 2rem;
+}
+  
+@media (max-width: 600px) {
+    h1 {
+      font-size: 1.2rem; 
+    }
+}
+
+li a {
+    background: #25f01e;
+}
+
+.ruta {
+    background-color: blue;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.nombre-ruta {
+    color: rgb(252, 7, 68);
+    background: white;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.detalle-ruta {
+    background: rgb(95, 92, 92);
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.nombre-ruta:hover {
+    background: #25f01e;
+}
+
+.video-ruta {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.video-ruta iframe {
+    display: inline-block;
+}
+  
+footer {
+    background: yellow;
+}
+

@@ -66,6 +66,15 @@ function agregarRuta(nombre, tiempoEstimado, horariosSalida, youtubeUrl) {
   listaRutasDiv.appendChild(rutaDiv);
 }
 
+alert("Bienvenido a la sección de rutas de transporte público. Aquí podrás encontrar información sobre las rutas disponibles, incluyendo tiempos estimados y horarios de salida. Haz clic en el nombre de cada ruta para ver el video correspondiente.");
+// Mensaje de bienvenida
+
+alert("Ya esta disponible el primer video, esperando que sea de gran utilidad para todos los usuarios. de esta prospera comunidad Tizayuquemse. ¡Buen viaje!");
+// Mensaje de información sobre el primer video
+
+alert("Esperando contar con tu valiosa ayuda, con el fin de seguir mejorando la información de las rutas. Si tienes alguna sugerencia o comentario, no dudes en hacérmelo saber. ¡Gracias por tu gran apoyo! 1$");
+// Mensaje de agradecimiento y solicitud de ayuda
+
 // Llamadas a la función para agregar rutas (puedes agregar o quitar según necesidad)
 agregarRuta("👍 Video Ruta 1: Andalucia - Gasera y viceversa... 🎬❌en proceso!", "40 minutos *A consideracion de retrasos por causas externas*", "L a S: de 5:00 am, cada 12 min. hasta las 8:00 pm. D: de 7:00 am. a 7:00 pm.", "");
 agregarRuta("👍 Video Ruta 2: Quma 1 - Tulipanes 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 5:20 a 20:00 Hrs.", "");

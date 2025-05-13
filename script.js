@@ -72,7 +72,7 @@ alert("Bienvenido a la sección de rutas de transporte público. Aquí podrás e
 alert("Ya esta disponible el primer video, esperando que sea de gran utilidad para todos los usuarios. de esta prospera comunidad Tizayuquemse. ¡Buen viaje!");
 // Mensaje de información sobre el primer video
 
-alert("Esperando contar con tu valiosa ayuda, con el fin de seguir mejorando la información de las rutas. Si tienes alguna duda, sugerencia o comentario, no dudes en hacérmelo saber. ¡Gracias por tu gran apoyo! 1$");
+alert("Esperando contar con tu valiosa ayuda, con el fin de seguir mejorando la información de eta Pag. WEB. Si tienes alguna duda, sugerencia o comentario, no dudes en hacérmelo saber. ¡Gracias por tu gran apoyo! 1$");
 // Mensaje de agradecimiento y solicitud de ayuda
 
 // Llamadas a la función para agregar rutas (puedes agregar o quitar según necesidad)

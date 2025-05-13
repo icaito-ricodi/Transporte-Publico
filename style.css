@@ -65,3 +65,22 @@ footer {
     background: yellow;
 }
 
+footer p {
+    color: white;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+footer a {
+    color: rgb(9, 5, 243);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-left: 180px;
+}
+
+footer a:hover {
+    background: rgb(136, 134, 134);
+    color: rgb(8, 245, 99);
+}
+

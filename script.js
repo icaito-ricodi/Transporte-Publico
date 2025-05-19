@@ -77,7 +77,7 @@ alert("Esperando contar con tu valiosa ayuda, con el fin de seguir mejorando la 
 
 // Llamadas a la función para agregar rutas (puedes agregar o quitar según necesidad)
 agregarRuta("👍 Video Ruta 1: Andalucia - Gasera y viceversa... 🎬❌en proceso!", "40 minutos *A consideracion de retrasos por causas externas*", "L a S: de 5:00 am, cada 12 min. hasta las 8:00 pm. D: de 7:00 am. a 7:00 pm.", "");
-agregarRuta("👍 Video Ruta 2: Quma 1 - Tulipanes y viceversa... 🎬✅accecible...", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 5:20 a 20:00 Hrs.", "https://youtu.be/J5oxfTI2-eI?t=306");
+agregarRuta("👍 Video Ruta 2: Quma 1 - Tulipanes y viceversa... 🎬✅accesible...", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 5:20 a 20:00 Hrs.", "https://youtu.be/J5oxfTI2-eI?t=306");
 agregarRuta("👍 Video Ruta 3: Quma 245 - Tulipanes y viceversa... 🎬❌en proceso!", "40 minutos *A consideracion de retrasos por causas externas*", "L a S: de 5:00 am, cada 10 min. hasta las 10:00 pm. D: de 7:00 am. a 10:00 pm.", "");
 agregarRuta("👍 Video Ruta 4: Huitzila - El Carmen y viceversa... 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 5:10 a 20:00 Hrs.", "");
 agregarRuta("👍 Video Ruta 5: Huitzila - Fraccionamiento el Carmeny viceversa... 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 5:10 a 20:00 Hrs.", "");

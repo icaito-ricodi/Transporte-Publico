@@ -75,9 +75,9 @@ alert("Ya esta disponible el primer video, esperando que sea de gran utilidad pa
 alert("Esperando contar con tu valiosa ayuda, con el fin de seguir mejorando la información de esta Pag. WEB. Si tienes alguna duda, sugerencia o comentario, no dudes en hacérmelo saber. ¡Gracias por tu gran apoyo! 1$");
 // Mensaje de agradecimiento y solicitud de ayuda
 
-// Llamadas a la función para agregar rutas (puedes agregar o quitar según necesidad)
+// Llamadas a la función para agregar rutas (puedes agregar o quitar según la necesidad)
 agregarRuta("👍 Video Ruta 1: Andalucia - Gasera y viceversa... 🎬❌en proceso!", "40 minutos *A consideracion de retrasos por causas externas*", "L a S: de 5:00 am, cada 12 min. hasta las 8:00 pm. D: de 7:00 am. a 7:00 pm.", "");
-agregarRuta("👍 Video Ruta 2: Quma 1 - Tulipanes y viceversa... 🎬✅disponible...", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 5:20 a 20:00 Hrs.", "https://youtu.be/J5oxfTI2-eI?t=306");
+agregarRuta("👍 Video Ruta 2: Quma 1 - Tulipanes y viceversa... 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 5:20 a 20:00 Hrs.", "#");
 agregarRuta("👍 Video Ruta 3: Quma 245 - Tulipanes y viceversa... 🎬❌en proceso!", "40 minutos *A consideracion de retrasos por causas externas*", "L a S: de 5:00 am, cada 10 min. hasta las 10:00 pm. D: de 7:00 am. a 10:00 pm.", "");
 agregarRuta("👍 Video Ruta 4: Huitzila - El Carmen y viceversa... 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 5:10 a 20:00 Hrs.", "");
 agregarRuta("👍 Video Ruta 5: Huitzila - Fraccionamiento el Carmeny viceversa... 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 5:10 a 20:00 Hrs.", "");
@@ -85,7 +85,7 @@ agregarRuta("👍 Video Ruta 6: Huitzila - Plazas y viceversa... 🎬❌en proce
 agregarRuta("👍 Video Ruta 7: Diamante - Clinica 18 y viceversa... 🎬❌en proceso!", "39 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 5:50 a 18:00 Hrs.", "");
 agregarRuta("👍 Video Ruta 8: U. Habitacional - Pedregal - Facc. ICA y viceversa... 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 15 minutos de 6:00 a 18:00 Hrs.", "");
 agregarRuta("👍 Video Ruta 9: Fraccionamiento Olmos - Tulipanes y viceversa... 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "L a S: de 6:15 am, cada 30 min. hasta las 8:00 pm. D: de 7:00 am. a 5:00 pm.", "");
-agregarRuta("👍 Video Ruta 10: Los Angeles - Unidad Habitacional y viceversa... 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "L a S: de 5:15 am, cada 12 min. hasta las 8:00 pm. D: de 7:00 am. a 7:00 pm.", "");
+agregarRuta("👍 Video Ruta 10: Los Angeles - Unidad Habitacional y viceversa... 🎬✅disponible...", "35 minutos *A consideracion de retrasos por causas externas*", "L a S: de 5:15 am, cada 12 min. hasta las 8:00 pm. D: de 7:00 am. a 7:00 pm.", "https://youtu.be/e0Mi1-vr63Q?t=117");
 agregarRuta("👍 Video Ruta 11: Zapata - Lazaro Cardenas y viceversa... 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "L a S: de 5:20 am, cada 10 min. hasta las 8:00 pm. D: de 7:00 am. a 7:00 pm.", "");
 agregarRuta("👍 Video Ruta 12: Expresidentes - Cementos y viceversa... 🎬❌en proceso!", "30 minutos *A consideracion de retrasos por causas externas*", "Cada 10 minutos de 6:00 a 20:00 Hrs.", "");
 agregarRuta("👍 Video Ruta 13: Haciendas 2 - Cementos y viceversa 🎬❌en proceso!", "35 minutos *A consideracion de retrasos por causas externas*", "Cada 8 minutos de 5:00 a 22:00 Hrs.", "");
